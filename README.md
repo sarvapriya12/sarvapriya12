@@ -56,21 +56,6 @@ Object-Oriented Programming • System Design
 ### **Tools & DevOps**
 Git • GitHub • Linux  
 Docker (Basics) • DevOps Fundamentals
-
 ---
-
-## 📌 Mindset
-> Clean code • Strong fundamentals • Scalable systems • Continuous growth
-
----
-
-## 🚀 What You’ll Find Here
-- Real-world projects and applications  
-- Problem-solving & DSA practice  
-- Experiments with AI, LLMs, and system design  
-- Clean, maintainable, and well-documented code  
-
----
-
 Thanks for visiting my profile ✨  
-Feel free to explore my repositories and follow along as I build and learn 🚀
+
