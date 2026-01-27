@@ -18,7 +18,6 @@ I actively work across **frontend, backend, mobile, AI-driven systems, and syste
 - ⚙️ DevOps fundamentals and Linux-based workflows  
 - 🚀 Interested in **IoT, robotics, and automation-driven systems**
 
----
 
 ## 💻 What I Do
 - Software development across frontend and backend systems  
@@ -28,7 +27,6 @@ I actively work across **frontend, backend, mobile, AI-driven systems, and syste
 - Develop systems connected to IoT, robotics, and automation  
 - Apply DevOps practices for building, deploying, and maintaining applications  
 
----
 
 ## 🛠️ Tech Stack & Skills
 
