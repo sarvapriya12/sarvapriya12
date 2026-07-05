@@ -20,23 +20,17 @@ I'm a software developer focused on building scalable, production-ready applicat
 
 ## Stack
 
-**Languages**  
-`Java` `Python` `C++` `JavaScript` `Dart`
+**Languages**  `Java` `Python` `C++` `JavaScript` `Dart`
 
-**Frontend**  
-`React` `Next.js` `React Native` `Flutter`
+**Frontend**  `React` `Next.js` `React Native` `Flutter`
 
-**Backend**  
-`FastAPI` `Spring Boot` `Node.js`
+**Backend**  `FastAPI` `Spring Boot` `Node.js`
 
-**AI**  
-`LLMs` `Agentic AI` `AI Agents` `RAG` `Automation`
+**AI**  `LLMs` `Agentic AI` `AI Agents` `RAG` `Automation`
 
-**Databases**  
-`PostgreSQL` `MySQL` `MongoDB` `Firebase`
+**Databases**  `PostgreSQL` `MySQL` `MongoDB` `Firebase` 
 
-**DevOps**  
-`Docker` `CI/CD` `GitHub Actions` `Linux` `Git`
+**DevOps**  `Docker` `CI/CD` `GitHub Actions` `Linux` `Git`
 
 ---
 
