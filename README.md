@@ -38,3 +38,10 @@ I'm a software developer focused on building scalable, production-ready applicat
 
 - Building an AI platform for content creation and automation.
 - Building a community-powered news platform where anyone can share local stories through text and short-form videos.
+
+---
+
+
+## Reach me
+
+[spriyaharsh@gmail.com](mailto:spriyaharsh@gmail.com) · [LinkedIn]([https://linkedin.com/in/jhajatin](https://www.linkedin.com/in/sarvapriya-harsh/))
