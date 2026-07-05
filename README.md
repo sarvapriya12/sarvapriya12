@@ -1,60 +1,46 @@
-# Hi, I'm **Sarvapriya Harsh 😄**
-**Software Developer | Full-Stack & App Developer | AI • LLMs • System Design**
+<div align="center">
+
+<h1>Hi, I'm <strong>Sarvapriya Harsh</strong></h1>
+
+<p><strong>Software & AI Developer</strong> based in <strong>Noida, India</strong> 🇮🇳</p>
+
+<p>Building production-ready Agentic AI systems, full-stack applications, and automation tools.</p>
+
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=1250&lines=Optimizing+Systems+for+10k%2B+Requests;Fine-Tuning+LLMs+%7C+Building+Agentic+AI+Systems+%7C+Automation+Tools;Building+Production-Grade+CI%2FCD+Pipelines;FastAPI+%7C+Spring+Boot+%7C+Node.js+%7C+Next.js" alt="Typing SVG" />
+</p>
+
+</div>
+
+### About
+
+I'm a software developer focused on building scalable, production-ready applications across web, desktop, mobile, and AI. I work across the full stack, with interests in Agentic AI, LLM fine-tuning, automation, and real-time systems. I enjoy designing reliable software, optimizing for performance, and turning complex ideas into maintainable, production-grade solutions backed by strong computer science fundamentals.
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=500&lines=Software+Developer;Full+Stack+%26+App+Developer;Frontend+%7C+Backend+%7C+DevOps;Working+with+LLMs+%26+AI+Agents;Building+Scalable+Systems)
----
 
-## 🧑‍💻 About Me
+## Stack
 
-I’m a **software developer with a strong foundation in computer science**, skilled at working both independently and in collaborative team environments. I focus on building reliable, scalable, and well-structured applications while continuously improving my technical depth.
+**Languages**  
+`Java` `Python` `C++` `JavaScript` `Dart`
 
-I actively work across **frontend, backend, mobile, AI-driven systems, and system design**, applying strong fundamentals and real-world problem-solving to every project I build.
+**Frontend**  
+`React` `Next.js` `React Native` `Flutter`
 
-- 💻 Full-stack software development  
-- 📱 Web & mobile app development  
-- 🤖 Working with **LLMs** and **AI agents**  
-- 🧠 Strong focus on **DSA & System Design**  
-- ⚙️ DevOps fundamentals and Linux-based workflows  
-- 🚀 Interested in **IoT, robotics, and automation-driven systems**
+**Backend**  
+`FastAPI` `Spring Boot` `Node.js`
 
+**AI**  
+`LLMs` `Agentic AI` `AI Agents` `RAG` `Automation`
 
-## 💻 What I Do
-- Software development across frontend and backend systems  
-- Build web, mobile, and application-based solutions  
-- Design scalable system architectures  
-- Work with LLM-based models and AI agents  
-- Develop systems connected to IoT, robotics, and automation  
-- Apply DevOps practices for building, deploying, and maintaining applications  
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
-
-## 🛠️ Tech Stack & Skills
-
-### **Programming Languages**
-Java • Python • C • C++ • Dart • JavaScript
-
-### **Frontend & Mobile**
-React • React Native • Flutter  
-HTML • CSS
-
-### **Backend & Frameworks**
-Spring Boot • Node.js
-
-### **AI & Emerging Tech**
-LLM Models • AI Agents
-
-### **Databases**
-MySQL • MongoDB (Basics)
-
-### **Core Computer Science**
-Data Structures & Algorithms  
-Operating Systems • DBMS • Computer Networks  
-Object-Oriented Programming • System Design
-
-### **Tools & DevOps**
-Git • GitHub • Linux  
-Docker (Basics) • DevOps Fundamentals
+**DevOps**  
+`Docker` `CI/CD` `GitHub Actions` `Linux` `Git`
 
 ---
-Thanks for visiting my profile ✨  
 
+## Currently
+
+- Building an AI platform for content creation and automation.
+- Building a community-powered news platform where anyone can share local stories through text and short-form videos.
