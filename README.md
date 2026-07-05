@@ -14,7 +14,7 @@
 
 ### About
 
-I'm a software developer focused on building scalable, production-ready applications across web, desktop, mobile, and AI. I work across the full stack, with interests in Agentic AI, LLM fine-tuning, automation, and real-time systems. I enjoy designing reliable software, optimizing for performance, and turning complex ideas into maintainable, production-grade solutions backed by strong computer science fundamentals.
+I'm a software developer focused on building scalable, production-ready applications across web, desktop, mobile. I work across backend infrastructres, Agentic AI, LLM fine-tuning, automation, and web developement when needed . I enjoy designing reliable software, optimizing for performance, and turning complex ideas into reality.
 
 ---
 
