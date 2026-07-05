@@ -7,7 +7,7 @@
 <p>Building production-ready Agentic AI systems, full-stack applications, and automation tools.</p>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=1250&lines=Optimizing+Systems+for+10k%2B+Requests;Fine-Tuning+LLMs+%7C+Building+Agentic+AI+Systems+%7C+Automation+Tools;Building+Production-Grade+CI%2FCD+Pipelines;FastAPI+%7C+Spring+Boot+%7C+Node.js+%7C+Next.js" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00C2FF&center=true&vCenter=true&width=1250&lines=Optimizing+Systems+for+10k%2B+Requests;Fine-Tuning+LLMs+%7C+Building+Agentic+AI+Systems+%7C+Automation+Tools;Building+Production-Grade+CI%2FCD+Pipelines;FastAPI+%7C+Spring+Boot+%7C+Node.js+%7C+Next.js" alt="Typing SVG" />
 </p>
 
 </div>
