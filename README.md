@@ -44,4 +44,4 @@ I'm a software developer focused on building scalable, production-ready applicat
 
 ## Reach me
 
-[spriyaharsh@gmail.com](mailto:spriyaharsh@gmail.com) · [LinkedIn]([https://linkedin.com/in/jhajatin](https://www.linkedin.com/in/sarvapriya-harsh/))
+[spriyaharsh@gmail.com](mailto:spriyaharsh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sarvapriya-harsh/)
