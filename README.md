@@ -12,7 +12,7 @@
 
 </div>
 
-### About
+## About
 
 I'm a software developer focused on building scalable, production-ready applications across web, desktop, mobile. I work across backend infrastructres, Agentic AI, LLM fine-tuning, automation, and web developement when needed . I enjoy designing reliable software, optimizing for performance, and turning complex ideas into reality.
 
