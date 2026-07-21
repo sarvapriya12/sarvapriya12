@@ -20,7 +20,7 @@ I'm a software developer focused on building scalable, production-ready applicat
 
 ## Stack
 
-**Languages**  `Java` `Python` `C++` `JavaScript` `Dart`
+**Languages**  `Java` `C++` `Python` `JavaScript` `Typescript` `Dart`
 
 **Frontend**  `React` `Next.js` `React Native` `Flutter`
 
@@ -28,7 +28,7 @@ I'm a software developer focused on building scalable, production-ready applicat
 
 **AI**  `LLMs` `Agentic AI` `AI Agents` `RAG` `Automation`
 
-**Databases**  `PostgreSQL` `MySQL` `MongoDB` `Firebase` 
+**Databases**  `PostgreSQL` `MySQL` `MongoDB` `Firebase` `Supabase`
 
 **DevOps**  `Docker` `CI/CD` `GitHub Actions` `Linux` `Git`
 
